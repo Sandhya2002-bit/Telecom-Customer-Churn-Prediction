@@ -186,6 +186,12 @@ Possible future enhancements include:
 
 ---
 
+## Conclusion
+
+This project successfully developed and evaluated multiple machine learning models for telecom customer churn prediction. The implementation demonstrated the importance of preprocessing, balancing techniques, model optimisation, and feature analysis in building reliable predictive systems. The project also provided valuable hands-on experience in solving real-world machine learning problems.
+
+---
+
 ## Author
 Sandhya Hanabar  
 MSc Data Science
